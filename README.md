@@ -15,12 +15,12 @@
       }
       #heart {
         width: 500px;
-        fill: red;
+        fill: rgba(172, 15, 91, 0.851);
         transition: fill 0.5s;
         cursor: pointer;
       }
       #heart:hover {
-        fill: rgb(225, 222, 7);
+        fill: rgb(242, 18, 18);
       }
       .love-message {
         display: none;

@@ -46,7 +46,7 @@
       </p>
       <p>Hãy cùng anh phấn đầu và tiến xa hơn nha em</p>
       <p>Yêu em nhiều!</p>
-      <p>Đồng Ý làm người yêu anh 1 lần nữa nha.......</p>
+      <p>Đồng Ý làm người yêu anh 1 lần nữa nha</p>
     </div>
 
     <script>

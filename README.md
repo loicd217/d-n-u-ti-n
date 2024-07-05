@@ -48,6 +48,18 @@
       <p>Yêu em nhiều!</p>
       <p>Đồng Ý làm người yêu anh 1 lần nữa nha</p>
     </div>
+    <hr />
+    <b>
+      <a href="https://loicd217.github.io/quocloi14/" target="_blank">Đồng ý</a>
+      <br />
+      <hr />
+
+      <a href="https://loicd217.github.io/quocloi15/" target="_blank"
+        >Từ Chối</a
+      >
+    </b>
+    <hr />
+    <hr />
 
     <script>
       var heart = document.getElementById("heart");
